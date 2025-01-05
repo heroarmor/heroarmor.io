@@ -14,7 +14,7 @@ name                     : &name "Kangqi Zhang"
 description              : &description "personal description"
 url                      : https://heroarmor.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "heroarmor.github.io"
+repository               : "heroarmor/heroarmor.io"
 
 
 # Site Author - The following control what appear as part of the author content on the side bar.
